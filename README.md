@@ -19,8 +19,9 @@ This repository contains the source code for my personal portfolio website, feat
 
 You can view the live demo of the portfolio website:
 
-- [Home Page](insert_home_page_link_here)
-- [Contact Page](insert_contact_page_link_here)
+- [Home Page]
+- [Contact Page]
+- https://sharmiliseshasayi.github.io/simple-portfolio-website/
 
 ## Pages
 
@@ -37,7 +38,7 @@ The contact page provides visitors with a way to get in touch. It includes a con
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://sharmiliseshasayi.github.io/simple-portfolio-website/
    ```
 
 2. Open the `index.html` file in your web browser to view the home page.
