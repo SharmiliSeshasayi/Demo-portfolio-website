@@ -21,7 +21,7 @@ You can view the live demo of the portfolio website:
 
 - [Home Page]
 - [Contact Page]
-- https://sharmiliseshasayi.github.io/simple-portfolio-website/
+-  https://sharmiliseshasayi.github.io/Demo-portfolio-website/
 
 ## Pages
 
